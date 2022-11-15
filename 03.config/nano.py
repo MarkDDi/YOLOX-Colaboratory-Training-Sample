@@ -27,9 +27,9 @@ class Exp(MyExp):
         self.train_ann = "/content/dataset/annotations/train_annotations.json"
         self.val_ann = "/content/dataset/annotations/validation_annotations.json"
 
-        self.num_classes = 1
+        self.num_classes = 2
 
-        self.max_epoch = 100
+        self.max_epoch = 300
         self.data_num_workers = 4
         self.eval_interval = 1
 
