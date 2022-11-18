@@ -7,3 +7,8 @@ item {
   id: 2
   name: 'ChinaUnicom'
 }
+
+item {
+  id: 3
+  name: 'QinLing'
+}
