@@ -5,10 +5,15 @@ item {
 
 item {
   id: 2
-  name: 'ChinaUnicom'
+  name: 'ChinaUnicom1'
 }
 
 item {
   id: 3
+  name: 'ChinaUnicom2'
+}
+
+item {
+  id: 4
   name: 'QinLing'
 }
