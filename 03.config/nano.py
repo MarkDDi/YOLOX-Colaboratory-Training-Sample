@@ -27,7 +27,8 @@ class Exp(MyExp):
         self.train_ann = "/content/dataset/annotations/train_annotations.json"
         self.val_ann = "/content/dataset/annotations/validation_annotations.json"
 
-        self.num_classes = 5//要根据02.annotation_data\pascal_label_map.pbtxt中模型的数量来修改，如id: 5，则此处也要改成5
+        #要根据02.annotation_data\pascal_label_map.pbtxt中模型的数量来修改，如id: 5，则此处也要改成5
+        self.num_classes = 5
 
         self.max_epoch = 500
         self.data_num_workers = 4
