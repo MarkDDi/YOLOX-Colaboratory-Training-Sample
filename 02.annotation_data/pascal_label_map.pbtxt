@@ -17,3 +17,8 @@ item {
   id: 4
   name: 'QinLing'
 }
+
+item {
+  id: 5
+  name: 'ChinaTelecom1'
+}
