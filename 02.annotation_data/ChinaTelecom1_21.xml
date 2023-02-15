@@ -18,7 +18,7 @@
 	</size>
 		<segmented>0</segmented>
 	<object>
-		<name>ChinaTelecom1</name>
+		<name>AB_ChinaTelecom</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

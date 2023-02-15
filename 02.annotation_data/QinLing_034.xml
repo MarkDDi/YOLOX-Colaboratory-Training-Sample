@@ -18,7 +18,7 @@
 	</size>
 		<segmented>0</segmented>
 	<object>
-		<name>QinLing</name>
+		<name>AE_QinLing</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
