@@ -22,3 +22,33 @@ item {
   id: 5
   name: 'AE_QinLing'
 }
+
+item {
+  id: 6
+  name: 'AF_IndiHome'
+}
+
+item {
+  id: 7
+  name: 'AG_3BB'
+}
+
+item {
+  id: 8
+  name: 'AH_brisabox'
+}
+
+item {
+  id: 9
+  name: 'AI_FiberHome'
+}
+
+item {
+  id: 10
+  name: 'AJ_ZTEWIFI6Plus'
+}
+
+item {
+  id: 11
+  name: 'AJ_ZTEWIFI6'
+}
