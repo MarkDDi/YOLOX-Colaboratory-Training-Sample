@@ -1,0 +1,32 @@
+<annotation>
+	<folder>WH_data</folder>
+	<filename>AM_ZTEMEGA_3.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>AM_ZTEMEGA</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>127</ymin>
+			<xmax>490</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -52,3 +52,28 @@ item {
   id: 11
   name: 'AJ_ZTEWIFI6'
 }
+
+item {
+  id: 12
+  name: 'AK_ZTEWIFI6Black'
+}
+
+item {
+  id: 13
+  name: 'AL_ZTEChinaMobile'
+}
+
+item {
+  id: 14
+  name: 'AM_ZTEMEGA'
+}
+
+item {
+  id: 15
+  name: 'AN_ZTELarge'
+}
+
+item {
+  id: 16
+  name: 'AO_ZTESmall'
+}
