@@ -77,3 +77,8 @@ item {
   id: 16
   name: 'AO_ZTESmall'
 }
+
+item {
+  id: 17
+  name: 'AP_IPGMundoGO'
+}
