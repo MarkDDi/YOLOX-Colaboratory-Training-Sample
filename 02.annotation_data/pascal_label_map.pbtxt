@@ -82,3 +82,18 @@ item {
   id: 17
   name: 'AP_IPGMundoGO'
 }
+
+item {
+  id: 18
+  name: 'AQ_TURKTelekom'
+}
+
+item {
+  id: 19
+  name: 'AR_Orange'
+}
+
+item {
+  id: 20
+  name: 'AS_PowerByOrange'
+}
