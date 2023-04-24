@@ -1,6 +1,6 @@
 <annotation>
 	<folder>WH_data</folder>
-	<filename>AC_ChinaUnicom_34.jpg</filename>
+	<filename>AC_ChinaUnicom_29.jpg</filename>
 	<source>
 		<database>WH Data</database>
 		<annotation>WH</annotation>
@@ -23,10 +23,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>101</xmin>
-			<ymin>21</ymin>
-			<xmax>247</xmax>
-			<ymax>196</ymax>
+			<xmin>106</xmin>
+			<ymin>27</ymin>
+			<xmax>233</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 </annotation>
