@@ -70,12 +70,12 @@ item {
 
 item {
   id: 15
-  name: 'AN_ZTELarge'
+  name: 'AN_ZTE'
 }
 
 item {
   id: 16
-  name: 'AO_ZTESmall'
+  name: 'AO_MobileHD'
 }
 
 item {
@@ -98,39 +98,26 @@ item {
   name: 'AS_PowerByOrange'
 }
 
-item {
-  id: 17
-  name: 'AP_IPGMundoGO'
-}
-
-item {
-  id: 18
-  name: 'AQ_TURKTelekom'
-}
-item {
-  id: 19
-  name: 'AR_Orange'
-}
-item {
-  id: 20
-  name: 'AS_PowerByOrange'
-}
 item {
   id: 21
   name: 'AT_We'
 }
+
 item {
   id: 22
   name: 'AU_COSMOTE'
 }
+
 item {
   id: 23
   name: 'AV_H3600Yellow'
 }
+
 item {
   id: 24
   name: 'AW_ChinaBroadNet'
 }
+
 item {
   id: 25
   name: 'AX_ZTEChinaTelecom'
