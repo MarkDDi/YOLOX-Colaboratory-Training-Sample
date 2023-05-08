@@ -1,0 +1,32 @@
+<annotation>
+	<folder>WH_data</folder>
+	<filename>AY_Viettel_70.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>AY_Viettel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>143</ymin>
+			<xmax>454</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

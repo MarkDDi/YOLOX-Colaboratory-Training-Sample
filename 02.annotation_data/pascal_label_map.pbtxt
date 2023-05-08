@@ -1,14 +1,9 @@
 item {
  id: 1
- name: 'ChinaMobile'
+ name: 'AQ_TURKTelekom'
 }
 
 item {
   id: 2
-  name: 'ChinaUnicom'
-}
-
-item {
-  id: 3
-  name: 'QinLing'
+  name: 'AY_Viettel'
 }
