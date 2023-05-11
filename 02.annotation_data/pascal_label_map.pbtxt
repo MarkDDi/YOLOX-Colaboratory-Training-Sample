@@ -122,3 +122,13 @@ item {
   id: 25
   name: 'AX_ZTEChinaTelecom'
 }
+item {
+  id: 26
+  name: 'AY_Viettel'
+}
+
+item {
+  id: 27
+  name: 'AZ_MobileBox'
+}
+
