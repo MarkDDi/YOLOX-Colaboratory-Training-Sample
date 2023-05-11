@@ -7,3 +7,8 @@ item {
   id: 2
   name: 'AY_Viettel'
 }
+
+item {
+  id: 2
+  name: 'AZ_MobileBox'
+}
