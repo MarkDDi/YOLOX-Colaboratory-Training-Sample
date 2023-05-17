@@ -1,14 +1,4 @@
 item {
  id: 1
- name: 'AQ_TURKTelekom'
-}
-
-item {
-  id: 2
-  name: 'AY_Viettel'
-}
-
-item {
-  id: 2
-  name: 'AZ_MobileBox'
+ name: 'BA_Yingshi'
 }
