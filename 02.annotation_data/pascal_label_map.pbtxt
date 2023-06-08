@@ -132,3 +132,23 @@ item {
   name: 'AZ_MobileBox'
 }
 
+item {
+ id: 28
+ name: 'BB_idoom'
+}
+
+item {
+  id: 29
+  name: 'BC_Claor'
+}
+
+item {
+ id: 30
+ name: 'BD_MyRepublic'
+}
+
+item {
+  id: 31
+  name: 'BE_bitel'
+}
+

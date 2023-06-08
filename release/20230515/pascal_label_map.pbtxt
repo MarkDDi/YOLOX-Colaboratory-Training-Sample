@@ -1,0 +1,134 @@
+item {
+ id: 1
+ name: 'AA_ChinaMobile'
+}
+
+item {
+  id: 2
+  name: 'AB_ChinaTelecom'
+}
+
+item {
+  id: 3
+  name: 'AC_ChinaUnicom'
+}
+
+item {
+  id: 4
+  name: 'AD_ChinaUnicom'
+}
+
+item {
+  id: 5
+  name: 'AE_QinLing'
+}
+
+item {
+  id: 6
+  name: 'AF_IndiHome'
+}
+
+item {
+  id: 7
+  name: 'AG_3BB'
+}
+
+item {
+  id: 8
+  name: 'AH_brisabox'
+}
+
+item {
+  id: 9
+  name: 'AI_FiberHome'
+}
+
+item {
+  id: 10
+  name: 'AJ_ZTEWIFI6Plus'
+}
+
+item {
+  id: 11
+  name: 'AJ_ZTEWIFI6'
+}
+
+item {
+  id: 12
+  name: 'AK_ZTEWIFI6Black'
+}
+
+item {
+  id: 13
+  name: 'AL_ZTEChinaMobile'
+}
+
+item {
+  id: 14
+  name: 'AM_ZTEMEGA'
+}
+
+item {
+  id: 15
+  name: 'AN_ZTE'
+}
+
+item {
+  id: 16
+  name: 'AO_MobileHD'
+}
+
+item {
+  id: 17
+  name: 'AP_IPGMundoGO'
+}
+
+item {
+  id: 18
+  name: 'AQ_TURKTelekom'
+}
+
+item {
+  id: 19
+  name: 'AR_Orange'
+}
+
+item {
+  id: 20
+  name: 'AS_PowerByOrange'
+}
+
+item {
+  id: 21
+  name: 'AT_We'
+}
+
+item {
+  id: 22
+  name: 'AU_COSMOTE'
+}
+
+item {
+  id: 23
+  name: 'AV_H3600Yellow'
+}
+
+item {
+  id: 24
+  name: 'AW_ChinaBroadNet'
+}
+
+item {
+  id: 25
+  name: 'AX_ZTEChinaTelecom'
+}
+item {
+  id: 26
+  name: 'AY_Viettel'
+}
+
+item {
+  id: 27
+  name: 'AZ_MobileBox'
+}
+
