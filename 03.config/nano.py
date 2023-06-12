@@ -28,9 +28,9 @@ class Exp(MyExp):
         self.val_ann = "/content/dataset/annotations/validation_annotations.json"
 
       #要根据02.annotation_data\pascal_label_map.pbtxt中模型的数量来修改，如id: 5，则此处也要改成5
-        self.num_classes = 2
+        self.num_classes = 1
 
-        self.max_epoch = 300
+        self.max_epoch = 600
         self.data_num_workers = 4
         self.eval_interval = 1
 
