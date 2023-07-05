@@ -161,3 +161,8 @@ item {
   id: 33
   name: 'BG_Brasil'
 }
+
+item {
+  id: 34
+  name: 'BH_PLDT'
+}
