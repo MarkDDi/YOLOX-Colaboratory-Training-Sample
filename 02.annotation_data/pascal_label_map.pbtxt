@@ -171,3 +171,8 @@ item {
   id: 35
   name: 'BI_MUNDO'
 }
+
+item {
+  id: 36
+  name: 'BC_ClaorRed'
+}
