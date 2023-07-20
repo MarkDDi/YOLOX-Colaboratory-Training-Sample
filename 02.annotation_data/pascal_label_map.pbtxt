@@ -176,3 +176,7 @@ item {
   id: 36
   name: 'BC_ClaorRed'
 }
+item {
+  id: 37
+  name: 'BJ_QuanGuangMobile'
+}
