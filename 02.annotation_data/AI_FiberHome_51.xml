@@ -1,0 +1,32 @@
+<annotation>
+	<folder>WH_data</folder>
+	<filename>AI_FiberHome_51.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>AI_FiberHome</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1321</xmin>
+			<ymin>1228</ymin>
+			<xmax>1993</xmax>
+			<ymax>1515</ymax>
+		</bndbox>
+	</object>
+</annotation>
