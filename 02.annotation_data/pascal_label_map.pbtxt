@@ -192,3 +192,8 @@ item {
   name: 'BL_DIGI'
 }
 
+item {
+  id: 40
+  name: 'BM_TianYiWangGuan'
+}
+
