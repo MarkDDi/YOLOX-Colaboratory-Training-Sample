@@ -29,7 +29,7 @@ There is no problem even if you do not store it.
 │  000001.jpg
 │  000001.xml
 │  000002.jpg
-│  000002.xml
+│  000002.xm
 │   :
 │  000049.jpg
 │  000049.xml
@@ -39,7 +39,7 @@ There is no problem even if you do not store it.
 ```
 
 # Usage
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkDDi/YOLOX-Colaboratory-Training-Sample/blob/Branch_mtc/YOLOX_Colaboratory_Training_Sample.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkDDi/YOLOX-Colaboratory-Training-Sample/blob/Branch_MTC_TypeA/YOLOX_Colaboratory_Training_Sample.ipynb)<br>
 Training will be conducted on Google Colaboratory.<br>
 Open your notebook from the [Open In Colab] link and run it in the following order:
 1. YOLOX 依存パッケージインストール(YOLOX Dependent Package Install)

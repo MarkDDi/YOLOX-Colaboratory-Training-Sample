@@ -40,7 +40,7 @@ Pascal VOC形式で出力したアノテーションデータを前提として�
 ```
 
 # Usage
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkDDi/YOLOX-Colaboratory-Training-Sample/blob/Branch_mtc/YOLOX_Colaboratory_Training_Sample.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkDDi/YOLOX-Colaboratory-Training-Sample/blob/Branch_MTC_TypeA/YOLOX_Colaboratory_Training_Sample.ipynb)<br>
 トレーニングはGoogle Colaboratory上で実施します。<br>
 [Open In Colab]リンクからノートブックを開き、以下の順に実行してください。
 1. YOLOX 依存パッケージインストール(YOLOX Dependent Package Install)
