@@ -1,5 +1,25 @@
 item {
  id: 1
+ name: 'MAA_Telecom'
+}
+
+item {
+ id: 2
+ name: 'MAB_OldUnicom'
+}
+
+item {
+ id: 3
+ name: 'MAB_OldUnicom'
+}
+
+item {
+ id: 4
+ name: 'MAC_NewUnicom'
+}
+
+item {
+ id: 5
  name: 'MAD_ChinaMobile'
 }
 
