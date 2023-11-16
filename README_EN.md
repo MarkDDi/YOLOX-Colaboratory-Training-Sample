@@ -29,7 +29,7 @@ There is no problem even if you do not store it.
 │  000001.jpg
 │  000001.xml
 │  000002.jpg
-│  000002.xm
+│  000002.xml
 │   :
 │  000049.jpg
 │  000049.xml
